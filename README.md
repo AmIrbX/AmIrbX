@@ -1,0 +1,4 @@
+-   Hi, I’m @AmIrbX
+-  I’m interested in Software Engineering.
+-  I’m currently learning C and C++ .
+-  How to reach me? there's no way 🤷‍♂️.
